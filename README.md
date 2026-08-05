@@ -25,11 +25,11 @@ cut, fold, and tuck away.
 
 | File | Content | Card size | Cards per A4 sheet |
 |---|---|---|---|
-| [`tinyseed.pdf`](./tinyseed.pdf) | **Full project bundle** — every template combined into a single PDF | — | — |
-| [`printables/tinyseed-normal-single-side.pdf`](./printables/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print (no fold, no cover) | 4.28 × 5.48 cm | 9 |
-| [`printables/tinyseed-bigger-single-side.pdf`](./printables/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print (no fold, no cover) | 8.56 × 5.48 cm | 6 |
-| [`printables/tinyseed-normal-bifold-duplex.pdf`](./printables/tinyseed-normal-bifold-duplex.pdf) | **Normal** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 4.28 × 5.48 cm (closed) | 6 |
-| [`printables/tinyseed-bigger-bifold-duplex.pdf`](./printables/tinyseed-bigger-bifold-duplex.pdf) | **Bigger** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 8.56 × 5.48 cm (closed) | 3 |
+| [`tinyseed.pdf`](./tinyseed.pdf) | **Full project bundle** — Guide and every template combined into a single PDF | — | — |
+| [`printables/tinyseed-normal-single-side.pdf`](./files/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print (no fold, no cover) | 4.28 × 5.48 cm | 9 |
+| [`printables/tinyseed-bigger-single-side.pdf`](./files/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print (no fold, no cover) | 8.56 × 5.48 cm | 6 |
+| [`printables/tinyseed-normal-bifold-duplex.pdf`](./files/tinyseed-normal-bifold-duplex.pdf) | **Normal** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 4.28 × 5.48 cm (closed) | 6 |
+| [`printables/tinyseed-bigger-bifold-duplex.pdf`](./files/tinyseed-bigger-bifold-duplex.pdf) | **Bigger** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 8.56 × 5.48 cm (closed) | 3 |
 
 All files are A4, PDF/X-4 standard (print-shop ready), with dashed cut
 lines (✂) marking where to cut.
