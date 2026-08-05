@@ -23,13 +23,14 @@ cut, fold, and tuck away.
 
 ## 📦 What's in here
 
-| File | Content | Card size | Cards per A4 sheet |
-|---|---|---|---|
-| [`tinyseed.pdf`](./tinyseed.pdf) | **Full project bundle** — Guide and every template combined into a single PDF | — | — |
-| [`printables/tinyseed-normal-single-side.pdf`](./files/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print (no fold, no cover) | 4.28 × 5.48 cm | 9 |
-| [`printables/tinyseed-bigger-single-side.pdf`](./files/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print (no fold, no cover) | 8.56 × 5.48 cm | 6 |
-| [`printables/tinyseed-normal-bifold-duplex.pdf`](./files/tinyseed-normal-bifold-duplex.pdf) | **Normal** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 4.28 × 5.48 cm (closed) | 6 |
-| [`printables/tinyseed-bigger-bifold-duplex.pdf`](./files/tinyseed-bigger-bifold-duplex.pdf) | **Bigger** cards as a foldable wallet card, duplex (2 pages: cover + inside) | 8.56 × 5.48 cm (closed) | 3 |
+| File | Content |
+|---|---|
+| [`tinyseed.pdf`](./tinyseed.pdf) | **Project bundle** — Guide and every template of project |
+| [`bip39-wordlist.pdf`](./bip39-wordlist.pdf) | **Enumerated BIP39 Wordlist** — 2 paper sides |
+| [`printables/tinyseed-normal-single-side.pdf`](./files/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print |
+| [`printables/tinyseed-bigger-single-side.pdf`](./files/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print |
+| [`printables/tinyseed-normal-bifold-duplex.pdf`](./files/tinyseed-normal-bifold-duplex.pdf) | **Normal** cards as a foldable wallet card, duplex (2 pages: cover + inside) |
+| [`printables/tinyseed-bigger-bifold-duplex.pdf`](./files/tinyseed-bigger-bifold-duplex.pdf) | **Bigger** cards as a foldable wallet card, duplex (2 pages: cover + inside) |
 
 All files are A4, PDF/X-4 standard (print-shop ready), with dashed cut
 lines (✂) marking where to cut.
