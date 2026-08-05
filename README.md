@@ -25,7 +25,6 @@ cut, fold, and tuck away.
 
 | File | Content | Card size | Cards per A4 sheet |
 |---|---|---|---|
-| [`project-guide.pdf`](./project-guide.pdf) | Project guide — explains the two sizes (Normal and Bigger) and their measurements | — | — |
 | [`tinyseed.pdf`](./tinyseed.pdf) | **Full project bundle** — every template combined into a single PDF | — | — |
 | [`printables/tinyseed-normal-single-side.pdf`](./printables/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print (no fold, no cover) | 4.28 × 5.48 cm | 9 |
 | [`printables/tinyseed-bigger-single-side.pdf`](./printables/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print (no fold, no cover) | 8.56 × 5.48 cm | 6 |
