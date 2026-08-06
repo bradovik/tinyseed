@@ -26,7 +26,6 @@ cut, fold, and tuck away.
 | File | Content |
 |---|---|
 | [`tinyseed.pdf`](./tinyseed.pdf) | **Project bundle** — Guide and every template of project |
-| [`bip39-wordlist.pdf`](./bip39-wordlist.pdf) | **Enumerated BIP39 Wordlist** — 2 paper sides |
 | [`printables/tinyseed-normal-single-side.pdf`](./files/tinyseed-normal-single-side.pdf) | **Normal** cards, single-sided print |
 | [`printables/tinyseed-bigger-single-side.pdf`](./files/tinyseed-bigger-single-side.pdf) | **Bigger** cards, single-sided print |
 | [`printables/tinyseed-normal-bifold-duplex.pdf`](./files/tinyseed-normal-bifold-duplex.pdf) | **Normal** cards as a foldable wallet card, duplex (2 pages: cover + inside) |
